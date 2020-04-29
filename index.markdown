@@ -9,10 +9,10 @@ layout: home
 <!-- ------------ -->
 <img style="float: left;" src="photo2.jpg" alt="photo" width="95"/>
 
->>>>> I am currently a Ph.D. student, majoring in Computer Science and Technology, 
->>>>> in School of Information Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan, China.
+>>>>>> I am currently a Ph.D. student, majoring in Computer Science and Technology, 
+>>>>>> in School of Information Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan, China.
 
->>>>> My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en); [My Github](https://github.com/SGJi)
+>>>>>> My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en); [My Github](https://github.com/SGJi)
 
 # Research Interest
 * Urban resource intelligent optimization (e.g., ambulance/taxi dispatching, take-out food delivery task grouping, ambulance station selection, urban sensing)
