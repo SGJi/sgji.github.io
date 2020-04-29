@@ -7,7 +7,7 @@ layout: home
 
 <!-- My Bio -->
 <!-- ------------ -->
-<img style="float: left;" src="photo2.jpg" alt="photo" width="90"/>
+<img style="float: left;" src="photo2.jpg" alt="photo" width="95"/>
 
 >>>>>> I am currently a Ph.D. student, majoring in Computer Science and Technology, 
 >>>>>> in School of Information Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan, China.
