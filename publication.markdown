@@ -18,7 +18,7 @@ permalink: /publication/
 
 * Yuhong Li, Yu Zheng, __Shenggong Ji__, Wenjun Wang, Leong Hou U, Zhiguo Gong. __Location selection for ambulance stations: a data-driven approach__. Proceedings of the 23rd ACM International Conference on Advances in Geographical Information Systems (GIS 2015), 2015. [PDF](https://drive.google.com/open?id=1dID7YRavyvznIXv6MDKhjiaoOiSGBneF)
 
-* Chong Wu, __Shenggong Ji__, Rui Zhang, Liujun Chen, Jiawei Chen, Xiaobin Li and Yanqing Hu. __Multiple Hybrid Phase Transition: Bootstrap Percolation on Complex Networks with Communities__. Europhysics Letters (EPL), 2014. [PDF](https://iopscience.iop.org/article/10.1209/0295-5075/107/48001)
-
 * Zhaoyuan Wang, Junbo Zhang, __Shenggong Ji__, Chuishi Meng, Tianrui Li, Yu Zheng. __Predicting and ranking box office revenue of movies based on big data__. Information Fusion. 2020. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S156625351930497X)
+
+* Chong Wu, __Shenggong Ji__, Rui Zhang, Liujun Chen, Jiawei Chen, Xiaobin Li and Yanqing Hu. __Multiple Hybrid Phase Transition: Bootstrap Percolation on Complex Networks with Communities__. Europhysics Letters (EPL), 2014. [PDF](https://iopscience.iop.org/article/10.1209/0295-5075/107/48001)
 

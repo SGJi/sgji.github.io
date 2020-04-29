@@ -25,7 +25,7 @@ layout: home
 * Deep reinforcement learning
 
 # Recent News
-* 2019.10: I am visiting Nanyang Technological University, Singapore, and work with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/index.html/). 
+* 2019.10: I am visiting Nanyang Technological University, Singapore, and working with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/). 
 
 * 2019.04: One paper on data-driven dynamic ambulance redeployment is accepted by TKDE.
 
