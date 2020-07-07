@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: "Education & Experience"
+title: "Education/Experience"
 permalink: /education/
 ---
 
