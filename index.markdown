@@ -7,14 +7,14 @@ layout: home
 
 <!-- My Bio -->
 <!-- ------------ -->
-<img style="float: left;" src="photo2.jpg" alt="photo" width="113"/>
+<img style="float: center;" src="photo2.jpg" alt="photo" width="113"/>
 
 <!-- >>>>>> I am currently a Ph.D. student, majoring in Computer Science and Technology,  -->
 <!-- >>>>>> in School of Information Science and Technology, Southwest Jiaotong University, Chengdu, Sichuan, China. -->
 
->>>>>> Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](https://ieg.tencent.com/), [Tencent](https://www.tencent.com/zh-cn/). He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). His main research interests include intelligent urban resource optimization, social networks, spatio-temporal data mining, deep reinforcement learning, etc. He has published ~10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and JD Group. 
+Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](https://ieg.tencent.com/), [Tencent](https://www.tencent.com/zh-cn/). He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). His main research interests include intelligent urban resource optimization, social networks, spatio-temporal data mining, deep reinforcement learning, etc. He has published ~10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and JD Group. 
 
->>>>>> My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en)
+My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en)
 <!-- [My Github](https://github.com/SGJi) -->
 
 # Research Interest
