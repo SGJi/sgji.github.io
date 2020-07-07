@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Services/Awards"
+title: "Services&Awards"
 permalink: /services/
 ---
 
