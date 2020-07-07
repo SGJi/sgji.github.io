@@ -4,7 +4,7 @@ title: "Education & Experience"
 permalink: /education/
 ---
 
-# Education
+### Education
 **Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
 * School of Information Science and Technology
 
@@ -17,7 +17,7 @@ permalink: /education/
 
 * Major: Information and Computing Science
 
-# Experience
+### Experience
 **Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
 * School of Computer Science and Engineering
 
