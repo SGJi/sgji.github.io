@@ -7,7 +7,7 @@ layout: home
 
 <!-- My Bio -->
 <!-- ------------ -->
-<img style="float: left;" src="photo2.jpg" alt="photo" width="80"/>
+<img style="float: left;" src="photo2.jpg" alt="photo" width="83"/>
 
 >>>>> Shenggong Ji, PhD, Computer Science
 
