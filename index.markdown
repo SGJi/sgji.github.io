@@ -53,6 +53,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 
 ### __Education__
 * **Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
+
    * School of Information Science and Technology
 
    * Computer Science
@@ -60,12 +61,14 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
    * Advisors: Dr. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and Dr. [Yu Zheng](http://urban-computing.com/yuzheng)
 
 * **B.S., Southwest Jiaotong University, Sep 2011 – Jun 2015**
+
    * School of Mathematics
 
    * Major: Information and Computing Science
 
 ### __Experience__
 * **Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
+
    * School of Computer Science and Engineering
 
    * Work with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/)
@@ -73,6 +76,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
    * Supported by China Scholarship Council
 
 * **Research Intern, JD Group Inc., Jan 2018 - May 2019**
+
    * JD Intelligent Cities Research Lab
 
    * Deep reinforcement learning, spatio-temporal data mining
@@ -80,6 +84,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
    * Dynamic ambulance redeployment, dynamic taxi route recommendation
 
 * **Research Intern, Microsoft Research Asia, Aug 2016 - Dec 2017**
+
    * Urban Computing Group
 
    * Spatio-temporal data mining, machine learning
@@ -87,6 +92,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
    * Dynamic ambulance redeployment, food delivery task grouping
 
 * **Research Intern, Microsoft Research Asia, Jan 2015 - Aug 2015**
+
    * Urban Computing Group
 
    * Spatio-temporal data mining, machine learning
