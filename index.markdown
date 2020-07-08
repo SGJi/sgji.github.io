@@ -7,7 +7,7 @@ layout: home
 
 <!-- My Bio -->
 <!-- ------------ -->
-<img style="float: left;" src="photo2.jpg" alt="photo" width="83"/>
+<img style="float: left;" src="photo2.jpg" alt="photo" width="86"/>
 
 >>>>> Shenggong Ji, PhD, Computer Science
 
@@ -15,12 +15,14 @@ layout: home
 
 >>>>> [Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en)
 
+<!-- ### __Short Bio__ -->
+
 Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](https://ieg.tencent.com/), [Tencent](https://www.tencent.com/zh-cn/). He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). His main research interests include intelligent urban resource optimization, social networks, spatio-temporal data mining, deep reinforcement learning, etc. He has published ~10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and JD Group. 
 
 <!-- My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en) -->
 <!-- [My Github](https://github.com/SGJi) -->
 
-### Research Interest
+### __Research Interest__
 * Intelligent urban resource optimization
    * dynamic ambulance redeployment
    * dynamic taxi route recommendation
@@ -36,7 +38,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 
 * Deep reinforcement learning
 
-### Recent News
+### __Recent News__
 * 2020.06: I finished my Ph.D. thesis defense and got the Ph.D. degree in Computer Science. 
 
 * 2019.10: I am visiting Nanyang Technological University, Singapore, and working with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/). 
@@ -49,7 +51,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 
 * 2018.05: One paper on finding the most influential spreaders in social networks is accepted by PNAS. 
 
-### Education
+### __Education__
 **Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
 * School of Information Science and Technology
 
@@ -62,7 +64,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 
 * Major: Information and Computing Science
 
-### Experience
+### __Experience__
 **Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
 * School of Computer Science and Engineering
 
@@ -91,7 +93,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 
 * Urban sensing, ambulance location selection
 
-### Publications
+### __Publication__
 * __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __Alleviating Users' Pain of Waiting: Effective Task Grouping for Online-to-Offline Food Delivery Services__. In Proceedings of the 2019 World Wide Web Conference (__WWW 2019__), 2019. [PDF](https://drive.google.com/open?id=1-ZBEzmNFIIZmPjcR5Ikg4L7ap_rlfvrk) [PPT](https://drive.google.com/open?id=1_QTVKdECINNt4romRrM5NKflG_DosZDu)
 
 * __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __A Deep Reinforcement Learning-Enabled Dynamic Redeployment System for Mobile Ambulances__. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (__IMWUT/UbiComp 2019__), 2019. [PDF](https://drive.google.com/open?id=18m5zLLWMBxu3b1m0RskIXRNfWZSkChjP) [CODE](https://github.com/SGJi/DRL4AmbulanceRedeployment) [PPT](https://drive.google.com/open?id=1ec9dR61lXoz7pxfad8IU1RhwCmxo1fNV)
@@ -112,7 +114,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 
 * Zhaoyuan Wang, Chuishi Meng, __Shenggong Ji__, Tianrui Li, Yu Zheng. __Food package suggestion system based on multi-objective optimization: A case study on a real-world restaurant__. Applied Soft Computing. 2020. 
 
-### Reviewers: 
+### __Reviewer__
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 
 * IEEE Transactions on Mobile Computing (TMC)
@@ -125,7 +127,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 
 * Annals of Operations Research (ANOR)
 
-### Awards
+### __Awards__
 * Graduate Si Shi Yang Hua Medal of SWJTU (Top 1/1000), 2019
 
 * Graduate National Scholarship, 2019
