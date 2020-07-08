@@ -52,46 +52,46 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 * 2018.05: One paper on finding the most influential spreaders in social networks is accepted by PNAS. 
 
 ### __Education__
-**Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
-* School of Information Science and Technology
+* **Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
+   * School of Information Science and Technology
 
-* Computer Science
+   * Computer Science
 
-* Advisors: Dr. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and Dr. [Yu Zheng](http://urban-computing.com/yuzheng)
+   * Advisors: Dr. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and Dr. [Yu Zheng](http://urban-computing.com/yuzheng)
 
-**B.S., Southwest Jiaotong University, Sep 2011 – Jun 2015**
-* School of Mathematics
+* **B.S., Southwest Jiaotong University, Sep 2011 – Jun 2015**
+   * School of Mathematics
 
-* Major: Information and Computing Science
+   * Major: Information and Computing Science
 
 ### __Experience__
-**Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
-* School of Computer Science and Engineering
+* **Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
+   * School of Computer Science and Engineering
 
-* Work with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/)
+   * Work with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/)
 
-* Supported by China Scholarship Council
+   * Supported by China Scholarship Council
 
-**Research Intern, JD Group Inc., Jan 2018 - May 2019**
-* JD Intelligent Cities Research Lab
+* **Research Intern, JD Group Inc., Jan 2018 - May 2019**
+   * JD Intelligent Cities Research Lab
 
-* Deep reinforcement learning, spatio-temporal data mining
+   * Deep reinforcement learning, spatio-temporal data mining
 
-* Dynamic ambulance redeployment, dynamic taxi route recommendation
+   * Dynamic ambulance redeployment, dynamic taxi route recommendation
 
-**Research Intern, Microsoft Research Asia, Aug 2016 - Dec 2017**
-* Urban Computing Group
+* **Research Intern, Microsoft Research Asia, Aug 2016 - Dec 2017**
+   * Urban Computing Group
 
-* Spatio-temporal data mining, machine learning
+   * Spatio-temporal data mining, machine learning
 
-* Dynamic ambulance redeployment, food delivery task grouping
+   * Dynamic ambulance redeployment, food delivery task grouping
 
-**Research Intern, Microsoft Research Asia, Jan 2015 - Aug 2015**
-* Urban Computing Group
+* **Research Intern, Microsoft Research Asia, Jan 2015 - Aug 2015**
+   * Urban Computing Group
 
-* Spatio-temporal data mining, machine learning
+   * Spatio-temporal data mining, machine learning
 
-* Urban sensing, ambulance location selection
+   * Urban sensing, ambulance location selection
 
 ### __Publication__
 * __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __Alleviating Users' Pain of Waiting: Effective Task Grouping for Online-to-Offline Food Delivery Services__. In Proceedings of the 2019 World Wide Web Conference (__WWW 2019__), 2019. [PDF](https://drive.google.com/open?id=1-ZBEzmNFIIZmPjcR5Ikg4L7ap_rlfvrk) [PPT](https://drive.google.com/open?id=1_QTVKdECINNt4romRrM5NKflG_DosZDu)
@@ -127,7 +127,7 @@ Dr. Shenggong Ji is currently a Researcher in [Interative Entertainment Group](h
 
 * Annals of Operations Research (ANOR)
 
-### __Awards__
+### __Award__
 * Graduate Si Shi Yang Hua Medal of SWJTU (Top 1/1000), 2019
 
 * Graduate National Scholarship, 2019
