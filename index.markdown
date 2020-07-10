@@ -22,58 +22,11 @@ Dr. Shenggong Ji is currently a Senior Algorithm Engineer in [Interative Enterta
 <!-- My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en) -->
 <!-- [My Github](https://github.com/SGJi) -->
 
-### __Research Interest__
-* Intelligent urban resource optimization
-   * dynamic ambulance redeployment
-   * dynamic taxi route recommendation
-   * take-out food delivery task grouping
-   * ambulance station selection
-   * mobile crowd sensing
+### __Working Experience__
 
-* Social networks
-   * Influence maximization
-   * Percolation
+* **Senior Algorithm Engineer, Tencent Inc., Jul 2020 - Present**
 
-* Spatio-temporal data mining
-
-* Deep reinforcement learning
-
-### __Recent News__
-* 2020.06: I finished my Ph.D. thesis defense and got the Ph.D. degree in Computer Science. 
-
-* 2019.10: I am visiting Nanyang Technological University, Singapore, and working with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/). 
-
-* 2019.04: One paper on data-driven dynamic ambulance redeployment is accepted by TKDE.
-
-* 2019.01: One paper on take-out food delivery task grouping is accepted by WWW 2019.
-
-* 2019.01: One paper on using deep reinforcement learning to do dynamic ambulance redeployment is accepted by IMWUT/UbiComp 2019.
-
-* 2018.05: One paper on finding the most influential spreaders in social networks is accepted by PNAS. 
-
-### __Education__
-* **Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
-
-   * School of Information Science and Technology
-
-   * Computer Science
-
-   * Advisors: Dr. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and Dr. [Yu Zheng](http://urban-computing.com/yuzheng)
-
-* **B.S., Southwest Jiaotong University, Sep 2011 – Jun 2015**
-
-   * School of Mathematics
-
-   * Major: Information and Computing Science
-
-### __Experience__
-* **Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
-
-   * School of Computer Science and Engineering
-
-   * Work with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/)
-
-   * Supported by China Scholarship Council
+   * Interative Entertainment Group
 
 * **Research Intern, JD Group Inc., Jan 2018 - May 2019**
 
@@ -99,7 +52,63 @@ Dr. Shenggong Ji is currently a Senior Algorithm Engineer in [Interative Enterta
 
    * Urban sensing, ambulance location selection
 
+### __Education__
+
+* **Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
+
+   * School of Information Science and Technology
+
+   * Computer Science
+
+   * Advisors: Dr. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and Dr. [Yu Zheng](http://urban-computing.com/yuzheng)
+
+* **Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
+
+   * School of Computer Science and Engineering
+
+   * Work with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/)
+
+   * Supported by China Scholarship Council
+
+* **B.S., Southwest Jiaotong University, Sep 2011 – Jun 2015**
+
+   * School of Mathematics
+
+   * Major: Information and Computing Science
+
+### __Research Interest__
+
+* Intelligent urban resource optimization
+   * dynamic ambulance redeployment
+   * dynamic taxi route recommendation
+   * take-out food delivery task grouping
+   * ambulance station selection
+   * mobile crowd sensing
+
+* Social networks
+   * Influence maximization
+   * Percolation
+
+* Spatio-temporal data mining
+
+* Deep reinforcement learning
+
+<!-- ### __Recent News__
+
+* 2020.06: Get the Ph.D. degree in Computer Science from Southwest Jiaotong University. 
+
+* 2019.10: Visiting Nanyang Technological University, Singapore, and working with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/). 
+
+* 2019.04: One paper on data-driven dynamic ambulance redeployment is accepted by TKDE.
+
+* 2019.01: One paper on take-out food delivery task grouping is accepted by WWW 2019.
+
+* 2019.01: One paper on DRL-based dynamic ambulance redeployment is accepted by IMWUT/UbiComp 2019.
+
+* 2018.05: One paper on finding the most influential spreaders in social networks is accepted by PNAS.  -->
+
 ### __Publication__
+
 * __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __Alleviating Users' Pain of Waiting: Effective Task Grouping for Online-to-Offline Food Delivery Services__. In Proceedings of the 2019 World Wide Web Conference (__WWW 2019__), 2019. [PDF](https://drive.google.com/open?id=1-ZBEzmNFIIZmPjcR5Ikg4L7ap_rlfvrk) [PPT](https://drive.google.com/open?id=1_QTVKdECINNt4romRrM5NKflG_DosZDu)
 
 * __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __A Deep Reinforcement Learning-Enabled Dynamic Redeployment System for Mobile Ambulances__. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (__IMWUT/UbiComp 2019__), 2019. [PDF](https://drive.google.com/open?id=18m5zLLWMBxu3b1m0RskIXRNfWZSkChjP) [CODE](https://github.com/SGJi/DRL4AmbulanceRedeployment) [PPT](https://drive.google.com/open?id=1ec9dR61lXoz7pxfad8IU1RhwCmxo1fNV)
@@ -121,6 +130,7 @@ Dr. Shenggong Ji is currently a Senior Algorithm Engineer in [Interative Enterta
 * Zhaoyuan Wang, Chuishi Meng, __Shenggong Ji__, Tianrui Li, Yu Zheng. __Food package suggestion system based on multi-objective optimization: A case study on a real-world restaurant__. Applied Soft Computing. 2020. 
 
 ### __Reviewer__
+
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 
 * IEEE Transactions on Mobile Computing (TMC)
@@ -134,6 +144,7 @@ Dr. Shenggong Ji is currently a Senior Algorithm Engineer in [Interative Enterta
 * Annals of Operations Research (ANOR)
 
 ### __Award__
+
 * Graduate Si Shi Yang Hua Medal of SWJTU (Top 1/1000), 2019
 
 * Graduate National Scholarship, 2019
