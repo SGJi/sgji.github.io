@@ -23,9 +23,12 @@ Dr. Shenggong Ji is currently a Senior Algorithm Engineer in [Interative Enterta
 <!-- [My Github](https://github.com/SGJi) -->
 
 ### __Working Experience__
+
 * **Senior Algorithm Engineer, Tencent Inc., Jul 2020 - Present**
 
    * Interative Entertainment Group
+
+### __Intern Experience__
 
 * **Research Intern, JD Group Inc., Jan 2018 - May 2019**
 
