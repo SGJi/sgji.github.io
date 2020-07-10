@@ -81,14 +81,21 @@ Dr. Shenggong Ji is currently a Senior Algorithm Engineer in [Interative Enterta
 ### __Research Interest__
 
 * Intelligent urban resource optimization
+
    * dynamic ambulance redeployment
+
    * dynamic taxi route recommendation
+
    * take-out food delivery task grouping
+
    * ambulance station selection
+
    * mobile crowd sensing
 
 * Social networks
+
    * Influence maximization
+   
    * Percolation
 
 * Spatio-temporal data mining
