@@ -9,76 +9,79 @@ layout: home
 <!-- ------------ -->
 <img style="float: left;" src="photo2.jpg" alt="photo" width="86"/>
 
->>>>> Shenggong Ji, PhD, Computer Science
+>>>>> Shenggong Ji, PhD in Computer Science
 
 >>>>> Email: <shenggongji@163.com>
 
 >>>>> [Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en)
 
+<!-- (https://ieg.tencent.com/) -->
+<!-- (https://www.tencent.com/zh-cn/).  -->
+<!-- (https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) -->
 <!-- ### __Short Bio__ -->
 
-Dr. Shenggong Ji is currently a Senior Algorithm Engineer in [Interative Entertainment Group](https://ieg.tencent.com/), [Tencent Inc](https://www.tencent.com/zh-cn/). He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). His main research interests include intelligent urban resource optimization, social networks, spatio-temporal data mining, deep reinforcement learning, etc. He has published ~10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and JD Group Inc. 
+Dr. Shenggong Ji is currently a Senior Algorithm Engineer in Interative Entertainment Group, Tencent Inc. He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). 
+His main research interests include intelligent urban resource optimization, influence maximization on social networks, spatio-temporal data mining, deep reinforcement learning, etc. 
+He has published ~10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). 
+He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in Microsoft Research Asia and JD Group Inc. 
 
 <!-- My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en) -->
 <!-- [My Github](https://github.com/SGJi) -->
 
-### __Working Experience__
+### __Work and Intern Experience__
 
-* **Senior Algorithm Engineer, Tencent Inc., Jul 2020 - Present**
+* **Senior Algorithm Engineer, Interative Entertainment Group, Tencent Inc., Jul 2020 - Present**
 
-   * Interative Entertainment Group
+   <!-- * Interative Entertainment Group -->
 
-### __Intern Experience__
+* **Research Intern, JD Intelligent Cities Research Lab, JD Group Inc., Jan 2018 - May 2019**
 
-* **Research Intern, JD Group Inc., Jan 2018 - May 2019**
+   <!-- * JD Intelligent Cities Research Lab -->
 
-   * JD Intelligent Cities Research Lab
+   <!-- * Deep reinforcement learning, spatio-temporal data mining -->
 
-   * Deep reinforcement learning, spatio-temporal data mining
+   <!-- * Dynamic ambulance redeployment, dynamic taxi route recommendation -->
 
-   * Dynamic ambulance redeployment, dynamic taxi route recommendation
+* **Research Intern, Urban Computing Group, Microsoft Research Asia, Aug 2016 - Dec 2017**
 
-* **Research Intern, Microsoft Research Asia, Aug 2016 - Dec 2017**
+   <!-- * Urban Computing Group -->
 
-   * Urban Computing Group
+   <!-- * Spatio-temporal data mining, machine learning -->
 
-   * Spatio-temporal data mining, machine learning
+   <!-- * Dynamic ambulance redeployment, food delivery task grouping -->
 
-   * Dynamic ambulance redeployment, food delivery task grouping
+* **Research Intern, Urban Computing Group, Microsoft Research Asia, Jan 2015 - Aug 2015**
 
-* **Research Intern, Microsoft Research Asia, Jan 2015 - Aug 2015**
+   <!-- * Urban Computing Group -->
 
-   * Urban Computing Group
+   <!-- * Spatio-temporal data mining, machine learning -->
 
-   * Spatio-temporal data mining, machine learning
+   <!-- * Mobile crowd sensing, ambulance location selection -->
 
-   * Urban sensing, ambulance location selection
 
-### __Education__
+### __Education Background__
 
 * **Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
 
-   * School of Information Science and Technology
-
-   * Computer Science
+   * Computer Science, School of Information Science and Technology
 
    * Advisors: Dr. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and Dr. [Yu Zheng](http://urban-computing.com/yuzheng)
 
 * **Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
 
-   * School of Computer Science and Engineering
+   * Computer Science, School of Computer Science and Engineering
 
-   * Work with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/)
+   * Advisor: Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/)
 
-   * Supported by China Scholarship Council
+   <!-- * Supported by China Scholarship Council -->
 
 * **B.S., Southwest Jiaotong University, Sep 2011 – Jun 2015**
 
-   * School of Mathematics
+   * Information and Computing Science, School of Mathematics
 
-   * Major: Information and Computing Science
+<!-- ### __Intern Experience__ -->
 
-### __Research Interest__
+<!-- ### __Research Interest__
 
 * Intelligent urban resource optimization
 
@@ -92,15 +95,11 @@ Dr. Shenggong Ji is currently a Senior Algorithm Engineer in [Interative Enterta
 
    * mobile crowd sensing
 
-* Social networks
-
-   * Influence maximization
-   
-   * Percolation
+* Influence maximization on social networks
 
 * Spatio-temporal data mining
 
-* Deep reinforcement learning
+* Deep reinforcement learning -->
 
 <!-- ### __Recent News__
 
