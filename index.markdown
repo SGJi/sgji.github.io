@@ -28,7 +28,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 <!-- My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en) -->
 <!-- [My Github](https://github.com/SGJi) -->
 
-### __Work and Intern Experience__
+### __Work and Intern Experiences__
 
 * **Senior Algorithm Engineer, Interative Entertainment Group, Tencent Inc., Jul 2020 - Present**
 
@@ -115,7 +115,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 * 2018.05: One paper on finding the most influential spreaders in social networks is accepted by PNAS.  -->
 
-### __Publication__
+### __Publications__
 
 * __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __Alleviating Users' Pain of Waiting: Effective Task Grouping for Online-to-Offline Food Delivery Services__. In Proceedings of the 2019 World Wide Web Conference (__WWW 2019__), 2019. [PDF](https://drive.google.com/open?id=1-ZBEzmNFIIZmPjcR5Ikg4L7ap_rlfvrk) [PPT](https://drive.google.com/open?id=1_QTVKdECINNt4romRrM5NKflG_DosZDu)
 
@@ -137,7 +137,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 * Zhaoyuan Wang, Chuishi Meng, __Shenggong Ji__, Tianrui Li, Yu Zheng. __Food package suggestion system based on multi-objective optimization: A case study on a real-world restaurant__. Applied Soft Computing. 2020. 
 
-### __Reviewer__
+### __Reviewers__
 
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 
@@ -151,7 +151,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 * Annals of Operations Research (ANOR)
 
-### __Award__
+### __Awards__
 
 * Graduate Si Shi Yang Hua Medal of SWJTU (Top 1/1000), 2019
 
