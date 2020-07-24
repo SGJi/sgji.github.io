@@ -117,6 +117,8 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 ### __Publications__
 
+* __Shenggong Ji__, Zhaoyuan Wang, Tianrui Li, Yu Zheng. __Spatio-temporal feature fusion for dynamic taxi route recommendation via deep reinforcement learning__. Knowledge-Based Systems (__KBS__), 2020.
+
 * __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __Alleviating Users' Pain of Waiting: Effective Task Grouping for Online-to-Offline Food Delivery Services__. In Proceedings of the 2019 World Wide Web Conference (__WWW 2019__), 2019. [PDF](https://drive.google.com/open?id=1-ZBEzmNFIIZmPjcR5Ikg4L7ap_rlfvrk) [PPT](https://drive.google.com/open?id=1_QTVKdECINNt4romRrM5NKflG_DosZDu)
 
 * __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __A Deep Reinforcement Learning-Enabled Dynamic Redeployment System for Mobile Ambulances__. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (__IMWUT/UbiComp 2019__), 2019. [PDF](https://drive.google.com/open?id=18m5zLLWMBxu3b1m0RskIXRNfWZSkChjP) [CODE](https://github.com/SGJi/DRL4AmbulanceRedeployment) [PPT](https://drive.google.com/open?id=1ec9dR61lXoz7pxfad8IU1RhwCmxo1fNV)
