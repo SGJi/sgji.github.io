@@ -129,7 +129,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 * _Shenggong Ji_, Linyuan Lü, Chi Ho Yeung,Yanqing Hu. _Effective spreading from multiple leaders identified by percolation in the susceptible-infected-recovered (SIR) model_. New Journal of Physics (_NJP_), 2017. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/aa76b0)
 
-* Yanqing Hu, _Shenggong Ji_, Yuliang Jin, Ling Feng, H. Eugene Stanley, Shlomo Havlin. __Local structure can identify and quantify influential global spreaders in large scale social networks__. Proceedings of the National Academy of Sciences of the United States of America (_PNAS_), 2018. (**Equal Contribution**). [Main](https://www.pnas.org/content/115/29/7468) [Supp](https://www.pnas.org/content/pnas/suppl/2018/07/02/1710547115.DCSupplemental/pnas.1710547115.sapp.pdf)
+* Yanqing Hu, _Shenggong Ji_, Yuliang Jin, Ling Feng, H. Eugene Stanley, Shlomo Havlin. _Local structure can identify and quantify influential global spreaders in large scale social networks_. Proceedings of the National Academy of Sciences of the United States of America (_PNAS_), 2018. (*Equal Contribution*). [Main](https://www.pnas.org/content/115/29/7468) [Supp](https://www.pnas.org/content/pnas/suppl/2018/07/02/1710547115.DCSupplemental/pnas.1710547115.sapp.pdf)
 
 * Yuhong Li, Yu Zheng, _Shenggong Ji_, Wenjun Wang, Leong Hou U, Zhiguo Gong. _Location selection for ambulance stations: a data-driven approach_. Proceedings of the 23rd ACM International Conference on Advances in Geographical Information Systems (GIS 2015), 2015. [PDF](https://drive.google.com/open?id=1dID7YRavyvznIXv6MDKhjiaoOiSGBneF)
 
