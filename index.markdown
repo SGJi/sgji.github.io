@@ -30,11 +30,11 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 ### __Work and Intern Experiences__
 
-* **Senior Algorithm Engineer, Interative Entertainment Group, Tencent Inc., Jul 2020 - Present**
+* Senior Algorithm Engineer, Interative Entertainment Group, Tencent Inc., Jul 2020 - Present
 
    <!-- * Interative Entertainment Group -->
 
-* **Research Intern, JD Intelligent Cities Research Lab, JD Group Inc., Jan 2018 - May 2019**
+* Research Intern, JD Intelligent Cities Research Lab, JD Group Inc., Jan 2018 - May 2019
 
    <!-- * JD Intelligent Cities Research Lab -->
 
@@ -42,7 +42,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
    <!-- * Dynamic ambulance redeployment, dynamic taxi route recommendation -->
 
-* **Research Intern, Urban Computing Group, Microsoft Research Asia, Aug 2016 - Dec 2017**
+* Research Intern, Urban Computing Group, Microsoft Research Asia, Aug 2016 - Dec 2017
 
    <!-- * Urban Computing Group -->
 
@@ -50,7 +50,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
    <!-- * Dynamic ambulance redeployment, food delivery task grouping -->
 
-* **Research Intern, Urban Computing Group, Microsoft Research Asia, Jan 2015 - Aug 2015**
+* Research Intern, Urban Computing Group, Microsoft Research Asia, Jan 2015 - Aug 2015
 
    <!-- * Urban Computing Group -->
 
@@ -61,13 +61,13 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 ### __Education Background__
 
-* **Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020**
+* Ph.D., Southwest Jiaotong University, Sep 2015 – Jun 2020
 
    * Computer Science, School of Information Science and Technology
 
    * Advisors: Dr. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and Dr. [Yu Zheng](http://urban-computing.com/yuzheng)
 
-* **Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020**
+* Visiting Ph.D. Student, Nanyang Technological University, Singapore, Oct 2019 - March 2020
 
    * Computer Science, School of Computer Science and Engineering
 
@@ -75,7 +75,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
    <!-- * Supported by China Scholarship Council -->
 
-* **B.S., Southwest Jiaotong University, Sep 2011 – Jun 2015**
+* B.S., Southwest Jiaotong University, Sep 2011 – Jun 2015
 
    * Information and Computing Science, School of Mathematics
 
@@ -117,27 +117,27 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 ### __Publications__
 
-* __Shenggong Ji__, Zhaoyuan Wang, Tianrui Li, Yu Zheng. __Spatio-temporal feature fusion for dynamic taxi route recommendation via deep reinforcement learning__. Knowledge-Based Systems (__KBS__), 2020.
+* _Shenggong Ji_, Zhaoyuan Wang, Tianrui Li, Yu Zheng. _Spatio-temporal feature fusion for dynamic taxi route recommendation via deep reinforcement learning_. Knowledge-Based Systems (_KBS_), 2020.
 
-* __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __Alleviating Users' Pain of Waiting: Effective Task Grouping for Online-to-Offline Food Delivery Services__. In Proceedings of the 2019 World Wide Web Conference (__WWW 2019__), 2019. [PDF](https://drive.google.com/open?id=1-ZBEzmNFIIZmPjcR5Ikg4L7ap_rlfvrk) [PPT](https://drive.google.com/open?id=1_QTVKdECINNt4romRrM5NKflG_DosZDu)
+* _Shenggong Ji_, Yu Zheng, Zhaoyuan Wang, Tianrui Li. _Alleviating Users' Pain of Waiting: Effective Task Grouping for Online-to-Offline Food Delivery Services_. In Proceedings of the 2019 World Wide Web Conference (_WWW 2019_), 2019. [PDF](https://drive.google.com/open?id=1-ZBEzmNFIIZmPjcR5Ikg4L7ap_rlfvrk) [PPT](https://drive.google.com/open?id=1_QTVKdECINNt4romRrM5NKflG_DosZDu)
 
-* __Shenggong Ji__, Yu Zheng, Zhaoyuan Wang, Tianrui Li. __A Deep Reinforcement Learning-Enabled Dynamic Redeployment System for Mobile Ambulances__. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (__IMWUT/UbiComp 2019__), 2019. [PDF](https://drive.google.com/open?id=18m5zLLWMBxu3b1m0RskIXRNfWZSkChjP) [CODE](https://github.com/SGJi/DRL4AmbulanceRedeployment) [PPT](https://drive.google.com/open?id=1ec9dR61lXoz7pxfad8IU1RhwCmxo1fNV)
+* _Shenggong Ji_, Yu Zheng, Zhaoyuan Wang, Tianrui Li. _A Deep Reinforcement Learning-Enabled Dynamic Redeployment System for Mobile Ambulances_. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (_IMWUT/UbiComp 2019_), 2019. [PDF](https://drive.google.com/open?id=18m5zLLWMBxu3b1m0RskIXRNfWZSkChjP) [CODE](https://github.com/SGJi/DRL4AmbulanceRedeployment) [PPT](https://drive.google.com/open?id=1ec9dR61lXoz7pxfad8IU1RhwCmxo1fNV)
 
-* __Shenggong Ji__, Yu Zheng, Wenjun Wang, Tianrui Li. __Real-Time Ambulance Redeployment: A Data-Driven Approach__. IEEE Transactions on Knowledge and Data Engineering (__TKDE__), 2019. [PDF](https://drive.google.com/open?id=140O6WYvG2OwisLMYS0TAwv40wDQN5ws6)
+* _Shenggong Ji_, Yu Zheng, Wenjun Wang, Tianrui Li. _Real-Time Ambulance Redeployment: A Data-Driven Approach_. IEEE Transactions on Knowledge and Data Engineering (_TKDE_), 2019. [PDF](https://drive.google.com/open?id=140O6WYvG2OwisLMYS0TAwv40wDQN5ws6)
 
-* __Shenggong Ji__, Yu Zheng, Tianrui Li. __Urban Sensing Based on Human Mobility__. In Proceedings of the 18th ACM International Conference on Ubiquitous Computing (__UbiComp 2016__), 2016. [PDF](https://drive.google.com/open?id=1DHACjQ0hRLKqz6SoeDYlJI1dZ_8CwagA) [PPT](https://drive.google.com/open?id=1330mqLIBo_rHNeiJYXaPyPkONeFix-C_)
+* _Shenggong Ji_, Yu Zheng, Tianrui Li. _Urban Sensing Based on Human Mobility_. In Proceedings of the 18th ACM International Conference on Ubiquitous Computing (_UbiComp 2016_), 2016. [PDF](https://drive.google.com/open?id=1DHACjQ0hRLKqz6SoeDYlJI1dZ_8CwagA) [PPT](https://drive.google.com/open?id=1330mqLIBo_rHNeiJYXaPyPkONeFix-C_)
 
-* __Shenggong Ji__, Linyuan Lü, Chi Ho Yeung,Yanqing Hu. __Effective spreading from multiple leaders identified by percolation in the susceptible-infected-recovered (SIR) model__. New Journal of Physics (__NJP__), 2017. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/aa76b0)
+* _Shenggong Ji_, Linyuan Lü, Chi Ho Yeung,Yanqing Hu. _Effective spreading from multiple leaders identified by percolation in the susceptible-infected-recovered (SIR) model_. New Journal of Physics (_NJP_), 2017. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/aa76b0)
 
-* Yanqing Hu, __Shenggong Ji__, Yuliang Jin, Ling Feng, H. Eugene Stanley, Shlomo Havlin. __Local structure can identify and quantify influential global spreaders in large scale social networks__. Proceedings of the National Academy of Sciences of the United States of America (__PNAS__), 2018. (**Equal Contribution**). [Main](https://www.pnas.org/content/115/29/7468) [Supp](https://www.pnas.org/content/pnas/suppl/2018/07/02/1710547115.DCSupplemental/pnas.1710547115.sapp.pdf)
+* Yanqing Hu, _Shenggong Ji_, Yuliang Jin, Ling Feng, H. Eugene Stanley, Shlomo Havlin. __Local structure can identify and quantify influential global spreaders in large scale social networks__. Proceedings of the National Academy of Sciences of the United States of America (_PNAS_), 2018. (**Equal Contribution**). [Main](https://www.pnas.org/content/115/29/7468) [Supp](https://www.pnas.org/content/pnas/suppl/2018/07/02/1710547115.DCSupplemental/pnas.1710547115.sapp.pdf)
 
-* Yuhong Li, Yu Zheng, __Shenggong Ji__, Wenjun Wang, Leong Hou U, Zhiguo Gong. __Location selection for ambulance stations: a data-driven approach__. Proceedings of the 23rd ACM International Conference on Advances in Geographical Information Systems (GIS 2015), 2015. [PDF](https://drive.google.com/open?id=1dID7YRavyvznIXv6MDKhjiaoOiSGBneF)
+* Yuhong Li, Yu Zheng, _Shenggong Ji_, Wenjun Wang, Leong Hou U, Zhiguo Gong. _Location selection for ambulance stations: a data-driven approach_. Proceedings of the 23rd ACM International Conference on Advances in Geographical Information Systems (GIS 2015), 2015. [PDF](https://drive.google.com/open?id=1dID7YRavyvznIXv6MDKhjiaoOiSGBneF)
 
-* Chong Wu, __Shenggong Ji__, Rui Zhang, Liujun Chen, Jiawei Chen, Xiaobin Li and Yanqing Hu. __Multiple Hybrid Phase Transition: Bootstrap Percolation on Complex Networks with Communities__. Europhysics Letters (EPL), 2014. [PDF](https://iopscience.iop.org/article/10.1209/0295-5075/107/48001)
+* Chong Wu, _Shenggong Ji_, Rui Zhang, Liujun Chen, Jiawei Chen, Xiaobin Li and Yanqing Hu. _Multiple Hybrid Phase Transition: Bootstrap Percolation on Complex Networks with Communities_. Europhysics Letters (EPL), 2014. [PDF](https://iopscience.iop.org/article/10.1209/0295-5075/107/48001)
 
-* Zhaoyuan Wang, Junbo Zhang, __Shenggong Ji__, Chuishi Meng, Tianrui Li, Yu Zheng. __Predicting and ranking box office revenue of movies based on big data__. Information Fusion. 2020. 
+* Zhaoyuan Wang, Junbo Zhang, _Shenggong Ji_, Chuishi Meng, Tianrui Li, Yu Zheng. _Predicting and ranking box office revenue of movies based on big data_. Information Fusion. 2020. 
 
-* Zhaoyuan Wang, Chuishi Meng, __Shenggong Ji__, Tianrui Li, Yu Zheng. __Food package suggestion system based on multi-objective optimization: A case study on a real-world restaurant__. Applied Soft Computing. 2020. 
+* Zhaoyuan Wang, Chuishi Meng, _Shenggong Ji_, Tianrui Li, Yu Zheng. _Food package suggestion system based on multi-objective optimization: A case study on a real-world restaurant_. Applied Soft Computing. 2020. 
 
 ### __Reviewers__
 
