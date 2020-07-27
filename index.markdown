@@ -22,7 +22,7 @@ layout: home
 
 Dr. Shenggong Ji is currently a Senior Algorithm Engineer in Interative Entertainment Group, Tencent Inc. He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). 
 His main research interests include intelligent urban resource optimization, influence maximization on social networks, spatio-temporal data mining, deep reinforcement learning, etc. 
-He has published ~10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). 
+He has published more than 10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). 
 He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in Microsoft Research Asia and JD Group Inc. 
 
 <!-- My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en) -->
@@ -117,7 +117,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 ### __Publications__
 
-* _Shenggong Ji_, Zhaoyuan Wang, Tianrui Li, Yu Zheng. _Spatio-temporal feature fusion for dynamic taxi route recommendation via deep reinforcement learning_. Knowledge-Based Systems (_KBS_), 2020.
+* _Shenggong Ji_, Zhaoyuan Wang, Tianrui Li, Yu Zheng. _Spatio-temporal feature fusion for dynamic taxi route recommendation via deep reinforcement learning_. Knowledge-Based Systems (_KBS_), 2020. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304731?via%3Dihub)
 
 * _Shenggong Ji_, Yu Zheng, Zhaoyuan Wang, Tianrui Li. _Alleviating Users' Pain of Waiting: Effective Task Grouping for Online-to-Offline Food Delivery Services_. In Proceedings of the 2019 World Wide Web Conference (_WWW 2019_), 2019. [PDF](https://drive.google.com/open?id=1-ZBEzmNFIIZmPjcR5Ikg4L7ap_rlfvrk) [PPT](https://drive.google.com/open?id=1_QTVKdECINNt4romRrM5NKflG_DosZDu)
 
