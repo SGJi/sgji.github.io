@@ -9,7 +9,7 @@ layout: home
 <!-- ------------ -->
 <img style="float: left;" src="photo2.jpg" alt="photo" width="86"/>
 
->>>>> Shenggong Ji, PhD in Computer Science
+>>>>> Shenggong Ji, Ph.D., Computer Science
 
 >>>>> Email: <shenggongji@163.com>
 
@@ -20,17 +20,17 @@ layout: home
 <!-- (https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) -->
 <!-- ### __Short Bio__ -->
 
-Dr. Shenggong Ji is currently a Senior Algorithm Engineer in Interative Entertainment Group, Tencent Inc. He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). 
+Dr. Shenggong Ji is currently a Senior Researcher in Tencent. He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). 
 His main research interests include intelligent urban resource optimization, influence maximization on social networks, spatio-temporal data mining, deep reinforcement learning, etc. 
 He has published more than 10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). 
-He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in Microsoft Research Asia and JD Group Inc. 
+He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in Microsoft Research Asia and JD. 
 
 <!-- My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en) -->
 <!-- [My Github](https://github.com/SGJi) -->
 
 ### __Work and Intern Experiences__
 
-* Senior Algorithm Engineer, Interative Entertainment Group, Tencent Inc., Jul 2020 - Present
+* Senior Researcher, Interative Entertainment Group, Tencent Inc., Jul 2020 - Present
 
    <!-- * Interative Entertainment Group -->
 
@@ -101,11 +101,19 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 * Deep reinforcement learning -->
 
-<!-- ### __Recent News__
+### __News__
 
-* 2020.06: Get the Ph.D. degree in Computer Science from Southwest Jiaotong University. 
+* 2020.12: One paper on participant recruitment in mobile crowd sensing is accepted by Chinese Journal of Computers (in Chinese).
 
-* 2019.10: Visiting Nanyang Technological University, Singapore, and working with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/). 
+* 2020.12: Receive Excellent Doctoral Dissertation Award of Southwest Jiaotong University.
+
+* 2020.09: Receive Excellent Doctoral Dissertation Award of ACM Chengdu.
+
+* 2020.07: Join Tencent as a Senior Researcher.
+
+* 2020.06: Get Ph.D. degree in Computer Science from Southwest Jiaotong University. 
+
+* 2019.10: Visit Nanyang Technological University, Singapore; work with Dr. [Bo AN](https://www.ntu.edu.sg/home/boan/). 
 
 * 2019.04: One paper on data-driven dynamic ambulance redeployment is accepted by TKDE.
 
@@ -113,9 +121,11 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
 * 2019.01: One paper on DRL-based dynamic ambulance redeployment is accepted by IMWUT/UbiComp 2019.
 
-* 2018.05: One paper on finding the most influential spreaders in social networks is accepted by PNAS.  -->
+* 2018.05: One paper on finding the most influential spreaders in social networks is accepted by PNAS. 
 
 ### __Publications__
+
+* _Shenggong Ji_, Yu Zheng, Zhaoyuan Wang, Tianrui Li. _Look-ahead search- and voting-based dynamic participant recruitment in mobile crowd sensing_ (in Chinese: 基于前向搜索和投票的移动群智感知动态用户招募方法). Chinese Journal of Computers (计算机学报), 2020. 
 
 * _Shenggong Ji_, Zhaoyuan Wang, Tianrui Li, Yu Zheng. _Spatio-temporal feature fusion for dynamic taxi route recommendation via deep reinforcement learning_. Knowledge-Based Systems (_KBS_), 2020. [PDF](https://authors.elsevier.com/c/1bTdx3OAb8~rvR)
 
@@ -154,6 +164,10 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 * Annals of Operations Research (ANOR)
 
 ### __Awards__
+
+* Excellent Doctoral Dissertation Award of Southwest Jiaotong University, 2020
+
+* Excellent Doctoral Dissertation Award of ACM Chengdu, 2020
 
 * Graduate Si Shi Yang Hua Medal of SWJTU (Top 1/1000), 2019
 
