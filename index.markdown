@@ -37,7 +37,9 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
    <!-- * Interative Entertainment Group -->
 
-* Research Intern, JD Intelligent Cities Research Lab, JD Group, Jan 2018 - May 2019
+* Research Intern, Alibaba Cloud, Alibaba, May 2019 - Oct 2019
+
+* Research Intern, JD Intelligent Cities Research Lab, JD, Jan 2018 - May 2019
 
    <!-- * JD Intelligent Cities Research Lab -->
 
