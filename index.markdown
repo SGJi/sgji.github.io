@@ -20,21 +20,24 @@ layout: home
 <!-- (https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) -->
 <!-- ### __Short Bio__ -->
 
-Dr. Shenggong Ji is currently a Senior Researcher in Tencent. He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). 
+Dr. Shenggong Ji is currently a Machine Learning Engineer in Bytedance. Before joining Bytedance, he was a Senior Researcher in Tencent. 
+He got his Ph.D. degree in Computer Science from Southwest Jiaotong University, supervised by Prof. [Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/) and [Yu Zheng](http://urban-computing.com/yuzheng). 
 His main research interests include intelligent urban resource optimization, influence maximization on social networks, spatio-temporal data mining, deep reinforcement learning, etc. 
 He has published more than 10 papers on top journals (e.g. PNAS, IEEE TKDE, ACM IMWUT) and top conferences (e.g. WWW, UbiComp). 
-He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in Microsoft Research Asia and JD. 
+He was a visiting Ph.D. student in Nanyang Technological University and was a research intern in Microsoft Research Asia, JD and Alibaba. 
 
 <!-- My Email: <shenggongji@163.com>; [My Google Scholar](https://scholar.google.com/citations?user=vL5PwMIAAAAJ&hl=en) -->
 <!-- [My Github](https://github.com/SGJi) -->
 
 ### __Work and Intern Experiences__
 
-* Senior Researcher, Interative Entertainment Group, Tencent Inc., Jul 2020 - Present
+* Machine Learning Engineer, Toutiao, Bytedance, Dec 2024 - present
+
+* Senior Researcher, Interative Entertainment Group, Tencent, Jul 2020 - Dec 2024
 
    <!-- * Interative Entertainment Group -->
 
-* Research Intern, JD Intelligent Cities Research Lab, JD Group Inc., Jan 2018 - May 2019
+* Research Intern, JD Intelligent Cities Research Lab, JD Group, Jan 2018 - May 2019
 
    <!-- * JD Intelligent Cities Research Lab -->
 
