@@ -47,7 +47,7 @@ He was a visiting Ph.D. student in Nanyang Technological University and was a re
 
    <!-- * Dynamic ambulance redeployment, dynamic taxi route recommendation -->
 
-* Research Intern, Urban Computing Group, Microsoft Research Asia, Aug 2016 - Dec 2017
+* Research Intern, Urban Computing Group, Microsoft Research Asia, Aug 2016 - Jan 2018
 
    <!-- * Urban Computing Group -->
 
